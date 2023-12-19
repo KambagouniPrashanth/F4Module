@@ -1,0 +1,23 @@
+.navbar a{
+    background-color: black;
+    color: tomato;
+    font-size: 2rem;
+    
+}
+.navbar .active{
+    background-color: white;
+    color: blue;
+}
+
+.navbar1 a{
+    background-color: black;
+    color: white;
+    font-size: 2rem;
+    
+}
+.navbar1 .active{
+    background-color: whitesmoke;
+    color: blue;
+    font-size: 2rem;
+    
+}

@@ -1,0 +1,10 @@
+.hello{
+    background-color:black;
+    color: tomato;
+    margin: 2rem;
+}
+.aboutiphone h1,h4{
+    text-align: center;
+    width: 40%;
+
+}
